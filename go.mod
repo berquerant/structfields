@@ -1,10 +1,9 @@
 module github.com/berquerant/structfields
 
 go 1.23.2
-
 require (
-	github.com/berquerant/ybase v0.6.3
-	github.com/stretchr/testify v1.9.0
+	github.com/berquerant/ybase v0.7.0
+	github.com/stretchr/testify v1.10.0
 	golang.org/x/tools v0.29.0
 	golang.org/x/vuln v1.1.4
 )
